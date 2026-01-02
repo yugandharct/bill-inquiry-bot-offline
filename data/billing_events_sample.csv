@@ -1,0 +1,9 @@
+mtn,acc_no,cust_id,bill_id,event_name,charge,total_charges,bill_month,verbiage
++12145550101,ACC1001,CUST2001,BILL9001,State Tax,12.34,145.67,202511,"State tax assessed for the billing period."
++12145550101,ACC1001,CUST2001,BILL9001,Plan Charge,89.99,145.67,202511,"Monthly plan base charge."
++12145550101,ACC1001,CUST2001,BILL9001,Surcharges,8.50,145.67,202511,"Regulatory surcharges."
++12145550101,ACC1001,CUST2001,BILL9001,Device Payment,34.84,145.67,202511,"Installment for device."
++12145550101,ACC1001,CUST2001,BILL9002,Federal Tax,6.20,131.20,202510,"Federal tax assessed for the billing period."
++12145550101,ACC1001,CUST2001,BILL9002,Plan Charge,89.99,131.20,202510,"Monthly plan base charge."
++12145550101,ACC1001,CUST2001,BILL9002,Surcharges,7.10,131.20,202510,"Regulatory surcharges."
++12145550101,ACC1001,CUST2001,BILL9002,Device Payment,27.91,131.20,202510,"Installment for device."

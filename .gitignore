@@ -1,0 +1,21 @@
+# local envs (never commit)
+.venv/
+venv/
+env/
+.conda/
+
+# python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# secrets
+.env
